@@ -38,3 +38,4 @@ Main contributors:
     2. For static analysis tools only run `./gradlew staticAnalysis`
 	 
 Saan John 101257741
+Steven Swinkels 101276242
